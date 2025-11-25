@@ -373,7 +373,7 @@
     <!-- Section Accueil -->
     <section id="accueil">
         <div class="hero-content">
-            <h1>Bonjour, je suis [Votre Nom]</h1>
+            <h1>Bonjour, je suis Emmanuella</h1>
             <p>Développeur Web Créatif & Passionné</p>
             <a href="#projets" class="btn">Voir mes projets</a>
         </div>
@@ -472,7 +472,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 [Votre Nom]. Tous droits réservés. Créé avec passion 💙</p>
+        <p>&copy; 2024 Emmanuella. Tous droits réservés. Créé avec passion 💙</p>
     </footer>
 
     <script>
